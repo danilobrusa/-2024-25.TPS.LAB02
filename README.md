@@ -16,3 +16,4 @@
 - totteman cort road
 - goodge street
 - warren street
+- euston square
