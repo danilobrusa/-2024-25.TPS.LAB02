@@ -2,3 +2,4 @@
 ## central
 - ealing brodway
 - west acton
+- east acton
