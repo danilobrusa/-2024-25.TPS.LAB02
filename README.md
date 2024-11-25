@@ -9,3 +9,4 @@
 - latmier road
 - ladbroke grove
 - westburn park
+- royal oak
