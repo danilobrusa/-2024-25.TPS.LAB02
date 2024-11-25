@@ -10,3 +10,4 @@
 ## circle east 
 - hing street kensingtoon
 - south kensingtoon
+- sloane square
