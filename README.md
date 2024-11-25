@@ -14,3 +14,4 @@
 - oxfords circus
 - holborn
 - chancery lane
+- st paul's
