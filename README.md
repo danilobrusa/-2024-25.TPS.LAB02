@@ -12,3 +12,4 @@
 - marble arch
 - bond street
 - oxfords circus
+- holborn
