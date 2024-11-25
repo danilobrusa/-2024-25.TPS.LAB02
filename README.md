@@ -11,3 +11,4 @@
 - hing street kensingtoon
 - south kensingtoon
 - sloane square
+- st james's park
